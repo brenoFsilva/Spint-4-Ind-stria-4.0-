@@ -24,5 +24,5 @@ Aqui estão algumas evidências do que foi realizado:
 Conexão do ESP32 ao Firebase: Uma captura de tela mostrando a comunicação em tempo real com o Firebase, onde os dados de posição e status de carga são atualizados automaticamente conforme o carro se move ou detecta uma carga.
 
 Detecção de Carga com Ultrassom: Captura de tela de um teste com o sensor de ultrassom indicando a presença de carga no carro. Com a presença de um objeto o sistema indicou “Carregado”; com a ausência de carga o status mudou para “Sem carga”.
-![Carga Carregada](Assets/Cargacarregada.jpeg)
+![Carga Carregada](Assets/CargaCarregada.jpeg).
 
