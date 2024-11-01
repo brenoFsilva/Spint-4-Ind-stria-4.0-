@@ -32,8 +32,11 @@ c) Discussão dos Resultados
 Os testes realizados apresentaram resultados satisfatórios para os objetivos principais:
 
 Precisão da Localização: A triangulação por Wi-Fi exibiu boa precisão.
+
 Conectividade e Sincronização: A comunicação em tempo real entre o ESP32 e o Firebase funcionou corretamente, com os dados sendo atualizados conforme esperado.
+
 Detecção de Carga: O sensor de ultrassom respondeu conforme o planejado, com a detecção da carga, identificando adequadamente quando o carro estava carregado.
+
 No entanto, pequenos atrasos na atualização da posição ocorreram em alguns momentos, o que poderia ser um problema em uma fábrica com alta movimentação.
 
 
