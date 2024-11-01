@@ -25,6 +25,7 @@ Conexão do ESP32 ao Firebase: Uma captura de tela mostrando a comunicação em 
 
 Detecção de Carga com Ultrassom: Captura de tela de um teste com o sensor de ultrassom indicando a presença de carga no carro. Com a presença de um objeto o sistema indicou “Carregado”; com a ausência de carga o status mudou para “Sem carga”.
 
-![CargaCarregada](Assets/carga_carregada.jpeg)
+![CargaCarregada](Assets/carga_carregada.jpeg) 
+![CargaDesCarregada](Assets/carga_descarregada.jpeg)
 
 
